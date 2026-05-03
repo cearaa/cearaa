@@ -11,11 +11,6 @@ My name is Tárik Moussa Alma!!
 ### 📃 IDE's
   [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
   
-![profile] 
-![languages]
-
-[profile]: https://github-readme-stats.vercel.app/api?username=fabricioaquiles&show_icons=true&theme=omni&count_private=true&hide_border=true
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=fabricioaquiles&theme=omni&layout=compact&hide_border=true
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=fabricioaquiles&color=blue" alt="Dust profile views" /> </p>
 
