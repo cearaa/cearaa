@@ -1,32 +1,66 @@
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computer">
+  <img src="https://avatars.githubusercontent.com/u/230046877?v=4" alt="flameastro GitHub profile" width="180"/>
+  <br><br>
 
-### Hello! Welcome to my github. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Gabriel+Goulart;Aspiring+Pentester+🥷🏻;Web+Development+❤️🌐;15+y/o+from+Brazil+🇧🇷)
 
-My name is Tárik Moussa Alma!!
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=flameastro&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=flameastro&theme=github_dark&hide_border=true" alt="GitHub Streak"/>
+  </div>
 
-### ⚛️  Programming Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nestjs,prisma,mysql,redis,docker,aws,terraform)](https://skillicons.dev)
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flameastro&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  </div>
 
-### 📃 IDE's
-  [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
-  
+  <br>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=fabricioaquiles&color=blue" alt="Dust profile views" /> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=flameastro&theme=github_dark&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 
+</div>
 
+# 👨🏻‍💻 About Me
 
-<!--
-**cearaa/cearaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tárik Moussa Alma** • 18 y/o • Brazil 🇧🇷
 
-Here are some ideas to get you started:
+> Passionate about technology, cybersecurity, and web development.  
+> My goal is to become a **pentester/ethical hacker** and help build a safer digital ecosystem while creating modern, functional web projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+``` json
+{
+    "name": "Tárik Moussa Alma",
+    "pronouns": "He/Him",
+    "title": "Web Developer",
+    "focus": "Logic",
+    "currently": "Java, JS, Python",
+    "learning": "Aspiring Cybersecurity"
+}
+```
+
+## 🛠️ Tech Stack
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![Python](https://skillicons.dev/icons?i=python)
+![Flask](https://skillicons.dev/icons?i=flask)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+## 🧰 Tools I Use
+
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Windows](https://skillicons.dev/icons?i=windows)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Discord](https://skillicons.dev/icons?i=discord)
+
+<div align="center">
+  <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flameastro&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=flameastro&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+</div>
