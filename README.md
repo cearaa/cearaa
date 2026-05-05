@@ -56,23 +56,6 @@ Here are some ideas to get you started:
 }
 ```
 
-## 🛠️ Tech Stack
-
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-
-## 🧰 Tools I Use
-
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Windows](https://skillicons.dev/icons?i=windows)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Discord](https://skillicons.dev/icons?i=discord)
-
 <div align="center">
   <br>
 
