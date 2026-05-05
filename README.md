@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <div align="center">
   <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flameastro&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cearaa&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cearaa&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
