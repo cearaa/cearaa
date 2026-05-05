@@ -1,4 +1,4 @@
-<div align="center">
+
 
   <img src="https://avatars.githubusercontent.com/u/230046877?v=4" alt="flameastro GitHub profile" width="180"/>
   <br><br>
