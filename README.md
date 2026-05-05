@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 # 👨🏻‍💻 About Me
 
 **Tárik Moussa Alma** • 18 y/o • Brazil 🇧🇷
+
 **I am a Systems Analysis and Development student at FIAP and an aspiring developer. I plan to pursue a career in cybersecurity in the future and I am always working to improve my skills.**
+
 **I am creative, confident, and currently looking for an internship opportunity.**
 > Passionate about technology, cybersecurity, and web development.  
 ``` json
