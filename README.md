@@ -7,13 +7,24 @@ My name is Tárik Moussa Alma!!
 ### ⚛️  Programming Languages and Frameworks:
 [![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,nestjs,prisma,mysql,redis,docker,aws,terraform)](https://skillicons.dev)
 
+### 🛠️ Tech Stack
+
+  ![HTML](https://skillicons.dev/icons?i=html)
+  ![CSS](https://skillicons.dev/icons?i=css)
+  ![JavaScript](https://skillicons.dev/icons?i=js)
+  ![Python](https://skillicons.dev/icons?i=python)
+  ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
 ### 📃 IDE's
   [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
+
+### 🧰 Tools I Use
+  ![Git](https://skillicons.dev/icons?i=git)
+  ![GitHub](https://skillicons.dev/icons?i=github)
+  ![Windows](https://skillicons.dev/icons?i=windows)
+  ![Figma](https://skillicons.dev/icons?i=figma)
+  ![Discord](https://skillicons.dev/icons?i=discord)
   
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=fabricioaquiles&color=blue" alt="Dust profile views" /> </p>
-
-
 
 <!--
 **cearaa/cearaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,5 +79,5 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=flameastro&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=flameastro&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=cearaa&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
