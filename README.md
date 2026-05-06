@@ -14,8 +14,10 @@
   ![HTML](https://skillicons.dev/icons?i=html)
   ![CSS](https://skillicons.dev/icons?i=css)
   ![JavaScript](https://skillicons.dev/icons?i=js)
+  ![Java](https://skillicons.dev/icons?i=java)
   ![Python](https://skillicons.dev/icons?i=python)
   ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+  ![TypeScript](https://skillicons.dev/icons?i=typescript)
 
 ### 📃 IDE's
   [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
@@ -25,6 +27,10 @@
   ![GitHub](https://skillicons.dev/icons?i=github)
   ![Windows](https://skillicons.dev/icons?i=windows)
   ![Figma](https://skillicons.dev/icons?i=figma)
+  ![Spring](https://skillicons.dev/icons?i=spring)
+  ![Prisma](https://skillicons.dev/icons?i=prisma)
+  ![AWS](https://skillicons.dev/icons?i=aws)
+  ![Docker](https://skillicons.dev/icons?i=docker)
   ![Discord](https://skillicons.dev/icons?i=discord)
   
 
