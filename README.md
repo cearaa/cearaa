@@ -5,20 +5,16 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1f6feb&size=40&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Tárik+Moussa+Alma;Aspiring+Full-Stack+and+CTO+🥷🏻;Web+Development+❤️🌐;18+y/o+from+Brazil+🇧🇷)
 
-
-### ⚛️  Programming Languages and Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=java,typescript,spring,prisma,docker,aws)](https://skillicons.dev)
-
 ### 🛠️ Tech Stack
 
   ![HTML](https://skillicons.dev/icons?i=html)
   ![CSS](https://skillicons.dev/icons?i=css)
   ![JavaScript](https://skillicons.dev/icons?i=js)
+  ![TypeScript](https://skillicons.dev/icons?i=typescript)
   ![Java](https://skillicons.dev/icons?i=java)
   ![Python](https://skillicons.dev/icons?i=python)
   ![NodeJS](https://skillicons.dev/icons?i=nodejs)
-  ![TypeScript](https://skillicons.dev/icons?i=typescript)
-
+ 
 ### 📃 IDE's
   [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
 
@@ -26,6 +22,7 @@
   ![Git](https://skillicons.dev/icons?i=git)
   ![GitHub](https://skillicons.dev/icons?i=github)
   ![Windows](https://skillicons.dev/icons?i=windows)
+  ![Kali](https://skillicons.dev/icons?i=kali)
   ![Figma](https://skillicons.dev/icons?i=figma)
   ![Spring](https://skillicons.dev/icons?i=spring)
   ![Prisma](https://skillicons.dev/icons?i=prisma)
