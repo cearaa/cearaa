@@ -81,5 +81,5 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/-@tarikknotfound-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikknotfound)
-[![LinkedIn](https://www.linkedin.com/in/rikk-alma/?skipRedirect=true)](www.linkedin.com/in/rikk-alma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikk-alma/)
 [![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/cearaa)
