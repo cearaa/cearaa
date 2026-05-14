@@ -52,9 +52,6 @@ Here are some ideas to get you started:
 
 **Tárik Moussa Alma** • 18 y/o • Brazil 🇧🇷
 
-![Git](https://img.shields.io/badge/Git-000?style=badge&logo=git&logoColor=F05032)
-![Discord](https://img.shields.io/badge/Discord-000?style=badge&logo=git&logoColor=F05032)
-
 **I am a Systems Analysis and Development student at FIAP and an aspiring developer. I plan to pursue a career in cybersecurity in the future and I am always working to improve my skills.**
 
 **I´m creative, confident, and currently looking for an internship opportunity.**
