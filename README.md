@@ -29,19 +29,15 @@
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![Discord](https://skillicons.dev/icons?i=discord)
 
-### Certificados
+### Certificates
+
 <div align='center'>
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black" alt="DevOps">
-  &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=black" alt="Python">
   &nbsp;&nbsp;
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=black" alt="Front-End">
   &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=black" alt="User Experience">
-  &nbsp;&nbsp;
-  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=black" alt="Design Thinking - Process">
-  </div>
-
+  
+  
 <!--
 **cearaa/cearaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -83,3 +79,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cearaa&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
+
+<div align="center">
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/-@tarikknotfound-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikknotfound)
+[![LinkedIn](https://www.linkedin.com/in/rikk-alma/?skipRedirect=true)](www.linkedin.com/in/rikk-alma)
+[![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/cearaa)
