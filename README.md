@@ -14,12 +14,8 @@
   ![Python](https://skillicons.dev/icons?i=python)
   ![NodeJS](https://skillicons.dev/icons?i=nodejs)
  
-### 📃 IDE's
-  [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
-
 ### 🧰 Tools I Use
   ![Git](https://skillicons.dev/icons?i=git)
-  ![GitHub](https://skillicons.dev/icons?i=github)
   ![Windows](https://skillicons.dev/icons?i=windows)
   ![Kali](https://skillicons.dev/icons?i=kali)
   ![Figma](https://skillicons.dev/icons?i=figma)
@@ -27,7 +23,6 @@
   ![Prisma](https://skillicons.dev/icons?i=prisma)
   ![AWS](https://skillicons.dev/icons?i=aws)
   ![Docker](https://skillicons.dev/icons?i=docker)
-  ![Discord](https://skillicons.dev/icons?i=discord)
   [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
 
 ### Certificates
