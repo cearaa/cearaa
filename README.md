@@ -29,6 +29,17 @@
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![Discord](https://skillicons.dev/icons?i=discord)
   
+<div align='center'>
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black" alt="DevOps">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=284705&theme=black" alt="Python">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=918357&theme=black" alt="Front-End">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=458721&theme=black" alt="User Experience">
+  &nbsp;&nbsp;
+  <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=470315&theme=black" alt="Design Thinking - Process">
+  </div>
 
 <!--
 **cearaa/cearaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
