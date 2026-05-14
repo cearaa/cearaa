@@ -29,7 +29,7 @@
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![Discord](https://skillicons.dev/icons?i=discord)
 
-  ##Certificados
+### Certificados
 <div align='center'>
   <img width='120px' src="https://fiap-achievements.vercel.app/api/badge?badge=925781&theme=black" alt="DevOps">
   &nbsp;&nbsp;
