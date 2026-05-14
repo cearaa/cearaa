@@ -28,6 +28,7 @@
   ![AWS](https://skillicons.dev/icons?i=aws)
   ![Docker](https://skillicons.dev/icons?i=docker)
   ![Discord](https://skillicons.dev/icons?i=discord)
+  [![My Skills](https://skillicons.dev/icons?i=idea,webstorm,pycharm,vscode)](https://skillicons.dev)
 
 ### Certificates
 
