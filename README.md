@@ -83,3 +83,8 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/-@tarikknotfound-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikknotfound)
 [![LinkedIn](https://img.shields.io/badge/-RikkAlma-000?style=flat-square&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/rikk-alma/)
 [![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/cearaa)
+
+
+<a href="https://github.com/CelaDaniel" target="_blank">
+  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
+</a>
