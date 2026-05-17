@@ -49,12 +49,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
-<br/>
-
 # 👨🏻‍💻 About Me
 
 **Tárik Moussa Alma** • 18 y/o • Brazil 🇧🇷
@@ -62,17 +56,14 @@ Here are some ideas to get you started:
 **I am a Systems Analysis and Development student at FIAP and an aspiring developer. I plan to pursue a career in cybersecurity in the future and I am always working to improve my skills.**
 
 **I´m creative, confident, and currently looking for an internship opportunity.**
-> Passionate about technology, cybersecurity, and web development.  
-``` json
-{
-    "name": "Tárik Moussa Alma",
-    "pronouns": "He/Him",
-    "title": "Web Developer",
-    "focus": "Logic",
-    "currently": "Java, JS, Python",
-    "learning": "Aspiring Cybersecurity"
-}
-```
+> Passionate about technology, cybersecurity, and web development.
+
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+
 
 <div align="center">
   <br>
