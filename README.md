@@ -85,6 +85,6 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/cearaa)
 
 
-<a href="https://github.com/CelaDaniel" target="_blank">
+<a href="https://github.com/caeraa" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
