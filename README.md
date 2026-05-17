@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...ddddddddddddddddddddddddddddddddd
 - ⚡ Fun fact: ...
 -->
+
+<br/>
+
+![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
+
+<br/>
+
 # 👨🏻‍💻 About Me
 
 **Tárik Moussa Alma** • 18 y/o • Brazil 🇧🇷
@@ -88,9 +95,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/cearaa" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
-
-<br/>
-
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
-<br/>
