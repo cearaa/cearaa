@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cearaa&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cearaa&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=cearaa&color=black&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
 <div align="center">
