@@ -78,28 +78,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-@tarikknotfound-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikknotfound)
-[![LinkedIn](https://img.shields.io/badge/-RikkAlma-000?style=flat-square&logo=linked-in&logoColor=white)](https://www.linkedin.com/in/rikk-alma/)
-[![GitHub](https://img.shields.io/badge/-Follow-000?style=flat-square&logo=github&logoColor=white)](https://github.com/cearaa)
-
-
-
-<a href="https://github.com/cearaa" target="_blank">
-  <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
-</a>
-
-![gifgithub](https://github.com/user-attachments/assets/54dc1f7a-f327-43ab-ae9c-58c7421eee39)
-
-<br/>
-
-
-<div align="center">
   <br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cearaa&theme=github-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cearaa&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
