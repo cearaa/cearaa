@@ -1,4 +1,4 @@
-</a>
+**</a>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computer">
 
 ### Welcome to my github. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">
@@ -88,3 +88,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/cearaa" target="_blank">
   <img align="right" src="https://img.icons8.com/material-outlined/24/ffffff/github.png" alt="GitHub Icon">
 </a>
+**
