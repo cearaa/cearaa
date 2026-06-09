@@ -79,13 +79,6 @@ Here are some ideas to get you started:
 
 <div align="center">
   <br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cearaa&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</div>
-
-<div align="center">
-
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/-@tarikknotfound-000?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tarikknotfound)
